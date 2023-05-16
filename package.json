@@ -1,0 +1,18 @@
+{
+  "name": "guilded-dice-roll-bot",
+  "description": "Dice roll bot",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alek-Guilded/guilded-dice-bot.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.1",
+    "ws": "8.5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
